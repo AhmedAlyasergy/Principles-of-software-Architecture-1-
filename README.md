@@ -19,12 +19,12 @@ Welcome to the official software architecture repository for **Nexus Logistics S
 
 This repository is organized to host all architectural documents, diagrams, and source files for Milestone 1:
 
-* 📄 **`TeamNexus_NexusLogistics.pdf`** *(Main Deliverable)*
-  * Contains the complete Milestone 1 proposal, including Cover Page, Contribution Table, System Overview, Stakeholders Table, Functional Requirements, Quality Attribute Scenarios, System Constraints, and Architecturally Significant Requirements (ASRs) with the Utility Tree.
+* 📄 **`ANRJ_Nexus.pdf`** *(Main Milestone 1 Deliverable)*
+  * Contains the complete Milestone 1 proposal report, including Cover Page, Contribution Table, System Overview, Stakeholders Table, Functional Requirements, Quality Attribute Scenarios, System Constraints, and Architecturally Significant Requirements (ASRs) with the Utility Tree.
 
-* 📁 **`/diagrams`** *(Diagram Source & High-Res Files)*
-  * **`Context_Diagram.pdf` / `.png` / `.drawio`**: C4 Level 1 System Context Diagram showing internal/external system boundaries.
-  * **`Utility_Tree.pdf` / `.png`**: Prioritized Quality Attribute Scenarios Utility Tree.
+* 📁 **`/Diagrams`** *(Diagram Sources & Exports)*
+  * **`Context Diagram-.pdf` / `.vsdx`**: C4 Level 1 System Context Diagram illustrating boundaries and external interactions.
+  * **`Utility tree.pdf` / `.vsdx`**: Prioritized Quality Attribute Scenarios Utility Tree.
 
 ---
 
@@ -40,4 +40,3 @@ This repository is organized to host all architectural documents, diagrams, and 
 * **Instructor:** Dr. Nada Mahmoud Hassan
 * **Teaching Assistant:** Eng. Mohamed Fareh
 * **Milestone:** Milestone 1 — Proposal & Architectural Requirements
-* **Submission Date:** October 2026
