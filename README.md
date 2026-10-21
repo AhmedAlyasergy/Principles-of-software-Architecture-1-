@@ -9,7 +9,7 @@ Welcome to the official software architecture repository for **Nexus Logistics S
 | Member Name | Student ID | Primary Responsibilities (Milestone 1) |
 | :--- | :---: | :--- |
 | **Jana Mohamed Samir** | `231006613` | Task 1: System Overview & Task 2: Stakeholders and Concerns |
-| **Ahmed FawzAlyasergy** | `231005915` | Task 3: System Context & Task 7: ASRs & Utility Tree |
+| **Ahmed Fawzy Alyasergy** | `231005915` | Task 3: System Context & Task 7: ASRs & Utility Tree |
 | **Nour Ahmed Maatouk** | `231014666` | Task 5: Quality Attribute Scenarios & Task 6: System Constraints |
 | **Reem Hussien** | `231004206` | Task 4: Functional Requirements (MoSCoW & M3 Prototype Scope) |
 
@@ -25,7 +25,7 @@ This repository is organized to host all architectural documents, diagrams, and 
 * 📁 **`/Diagrams`** *(Diagram Sources & Exports)*
   * **`Context Diagram-.pdf` / `.vsdx`**: C4 Level 1 System Context Diagram illustrating boundaries and external interactions.
   * **`Utility tree.pdf` / `.vsdx`**: Prioritized Quality Attribute Scenarios Utility Tree.
-
+  * *Note: All architectural diagrams were designed using Lucidchart (source files provided with `.lucid` extension).*
 ---
 
 ## 🚀 Project Overview
