@@ -1,4 +1,4 @@
-##M1 — Proposal & architectural requirements ##
+#M1 — Proposal & architectural requirements #
 1. System overview 
 A one-page description of the proposed system: the problem it solves, who uses it, and why it is 
 architecturally interesting. 
