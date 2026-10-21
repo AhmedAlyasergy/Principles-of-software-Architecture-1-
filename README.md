@@ -25,7 +25,7 @@ This repository is organized to host all architectural documents, diagrams, and 
 * 📁 **`/Diagrams`** *(Diagram Sources & Exports)*
   * **`Context Diagram-.pdf` / `.vsdx`**: C4 Level 1 System Context Diagram illustrating boundaries and external interactions.
   * **`Utility tree.pdf` / `.vsdx`**: Prioritized Quality Attribute Scenarios Utility Tree.
-  * *Note: All architectural diagrams were designed using Lucidchart (source files provided with `.lucid` extension).*
+  * *Note: All diagrams were created using Lucidchart (please note that Lucidchart does not use a `.lucid` file extension format).*
 ---
 
 ## 🚀 Project Overview
