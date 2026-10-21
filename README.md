@@ -8,10 +8,10 @@ Welcome to the official software architecture repository for **Nexus Logistics S
 
 | Member Name | Student ID | Primary Responsibilities (Milestone 1) |
 | :--- | :---: | :--- |
-| **Jana Samir** | 231006613 | Task 1: System Overview & Task 2: Stakeholders and Concerns |
-| **Ahmed Alyasergy** | — | Task 3: System Context & Task 7: ASRs & Utility Tree |
-| **Reem Hussein** | — | Task 4: Functional Requirements (MoSCoW & M3 Prototype Scope) |
-| **Nour Maatouk** | — | Task 5: Quality Attribute Scenarios & Task 6: System Constraints |
+| **Jana Mohamed Samir** | `231006613` | Task 1: System Overview & Task 2: Stakeholders and Concerns |
+| **Ahmed FawzAlyasergy** | `231005915` | Task 3: System Context & Task 7: ASRs & Utility Tree |
+| **Nour Ahmed Maatouk** | `231014666` | Task 5: Quality Attribute Scenarios & Task 6: System Constraints |
+| **Reem Hussien** | `231004206` | Task 4: Functional Requirements (MoSCoW & M3 Prototype Scope) |
 
 ---
 
